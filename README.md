@@ -32,7 +32,7 @@ python3 statistics.py
 
 
 ## Sample Input
-[1, 2, 2, 3, 4, 5, 5, 5]
+[1, 2, 2, 3, 4, 5, 5, 5, 6, 7, 8]
 
 ## Output
 Displays mean, median, and mode in the terminal.
